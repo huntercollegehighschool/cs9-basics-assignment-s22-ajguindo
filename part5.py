@@ -11,5 +11,9 @@ What is your last name? Ketchum
 Hello, Ash Ketchum
 
 '''
+name = input("What is your first name? ")
+name2 = input("What is your last name? ")
+
+print("Hello", name + name2)
 
 #start writing your code below
